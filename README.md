@@ -1,3 +1,8 @@
-# pern-devcontainers
+# pern-docker
 
-A demo PERN app running in Docker and Dev Containers
+A demo PERN app running in Docker
+
+Postgres
+Express
+React
+Node
